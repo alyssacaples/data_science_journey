@@ -130,3 +130,5 @@ dmypy.json
 
 #personal
 config.py
+credentials.json
+
